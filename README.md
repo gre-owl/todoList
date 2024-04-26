@@ -1,4 +1,4 @@
-# react-native todolist app v 1.0
+##react-native todolist app v 1.0
 Mobile todo list app v 1.0: compatible with both Android and i0S.
 
 -add images here - 
@@ -12,11 +12,11 @@ react: React, {useState}
 Expo Go application on mobile device for viewing app
 
 ##Setup and run commands
--Download Expo Go on your mobile device
-- Node.js download (npm dependencies) : https://nodejs.org/en/download
-- npm install --global expo-cli (if you don't have Expo installed already)
+Download Expo Go on your mobile device
+Node.js download (npm dependencies) : https://nodejs.org/en/download
+npm install --global expo-cli (if you don't have Expo installed already)
   
-- In terminal:
+In terminal:
   cd todoList
   npx expo start
   scan qr code on Expo Go application
