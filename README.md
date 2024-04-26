@@ -5,7 +5,9 @@ Mobile todo list app v 1.0: compatible with both Android and i0S.
 ![image](https://github.com/gre-owl/todoList/assets/97501735/c8d3896f-f06d-49f9-963b-21bc2e828de6)
 
 
-
+## How the app works
+- Add tasks using the "write a task" entry field and tapping the + key
+- Remove tasks by tapping the task item on the list
 
 ## Dependencies
 - npm (Node.js) 
