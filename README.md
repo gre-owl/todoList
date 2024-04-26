@@ -24,5 +24,5 @@ Mobile todo list app v 1.0: compatible with both Android and i0S.
 ### In terminal:
  - cd todoList
  - npx expo start
- - scan qr code on Expo Go application
--  run todolist application
+ - scan qr code on Expo Go app
+-  run todolist app in Expo
