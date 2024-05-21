@@ -1,5 +1,5 @@
 ## react-native todolist app v 1.0
-Mobile todo list app v 1.0: compatible with both Android and i0S.
+todo list app v 1.0: compatible with both Android and i0S.
 
 
 ![image](https://github.com/gre-owl/todoList/assets/97501735/c8d3896f-f06d-49f9-963b-21bc2e828de6)
